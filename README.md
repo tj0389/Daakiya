@@ -8,6 +8,7 @@ It helps to GET and POST request on any api and show the result to you on the br
  Back-end : Nodejs
  </pre>
  
+### Run the project here - https://daakiya.herokuapp.com/
 
 ![alt text](https://github.com/tj0389/Daakiya/blob/master/img2.png)
 ![alt text](https://github.com/tj0389/Daakiya/blob/master/img1.png)
